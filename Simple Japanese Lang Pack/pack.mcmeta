@@ -5,6 +5,13 @@
     "supported_formats": {
       "min_inclusive": 1,
       "max_inclusive": 65
+    },
+    "language": {
+      "sjp_wrld": {
+        "name": "Simple Japanese",
+        "region": "World",
+        "bidirectional": false
+      }
     }
   }
 }
